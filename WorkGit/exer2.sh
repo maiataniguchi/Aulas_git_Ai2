@@ -7,3 +7,6 @@ echo "2. Descobrir o vôo com maior atraso na chegada (ArrDelay) registrado"
 echo -n "O vôo com maior atraso foi de: "
 cut -d, -f15 2006-sample.csv | sort -nr | head -n1
 echo "minutos."
+
+## O vôo com maior atraso foi de: 822.0 minutos.
+

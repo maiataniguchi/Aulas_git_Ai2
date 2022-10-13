@@ -6,4 +6,4 @@ echo "O tempo total de atrasos para a decolagem no  aeroporto JFK foi de: "
 sort -nr -t, -k16 2006-sample.csv | cut -d, -f16,17 | grep "JFK" |cut -d, -f1 | grep -v "-" | grep -v '^$' | paste -sd+ | bc
 echo "minutos."
 
-### 
+### O tempo total de atrasos para a decolagem no  aeroporto JFK foi de: 16065.0 minutos. 
