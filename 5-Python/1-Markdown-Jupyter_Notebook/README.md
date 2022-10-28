@@ -12,6 +12,7 @@ Reproduza o seguinte
 [README](assets/markdown.pdf)
 utilizando `markdown` no Jupyter notebook.
 
+[Solução](https://github.com/maiataniguchi/Aulas_git_Ai2/blob/main/5-Python/1-Markdown-Jupyter_Notebook/Ex1.ipynb)
 
 #### Exercício 2:
 
@@ -19,6 +20,7 @@ O `markdown` não possibilita que redimensionemos a imagem usando a sintaxe
 `![image_alt](image_path)`.  Pesquise uma maneira de inserir a seguinte imagem
 e redimensioná-la no jupyter notebook. 
 
+[Solução](https://github.com/maiataniguchi/Aulas_git_Ai2/blob/main/5-Python/1-Markdown-Jupyter_Notebook/Ex2.ipynb)
 
 #### Exercício 3:
 
@@ -27,6 +29,8 @@ utilizados pela sintaxe ( `*, #, _ **`)?
 
 Imagem exemplo:
 ![](assets/lorem.png)
+
+[Solução](https://github.com/maiataniguchi/Aulas_git_Ai2/blob/main/5-Python/1-Markdown-Jupyter_Notebook/Ex3.ipynb)
 
 #### Exercício 4:
 
@@ -67,11 +71,13 @@ ambiente.
 
 Obs.: Em módulos futuros, será explicado como utilizar a lib `matplotlib`.
 
+[Solução](https://github.com/maiataniguchi/Aulas_git_Ai2/blob/main/5-Python/1-Markdown-Jupyter_Notebook/Ex2.ipynb)
+
 #### Exercício 5
 
 Utilize o repositório [profiles](https://github.com/ai2-education-fiep-turma-5/resident-profiles), criar um novo diretório no formato `nome-sobrenome` (utilizar último sobrenome - não utilizar letras maiúsculas). Criar um novo `README.md` no seu diretório contendo o seu perfil (como uma espécie de mini CV) utilizando `Markdown`.
 
-
+[Solução](https://github.com/maiataniguchi/Aulas_git_Ai2/blob/main/5-Python/1-Markdown-Jupyter_Notebook/Ex5.ipynb)
 
 ### Python warmup
 
@@ -99,3 +105,5 @@ Utilizando esse Dataset responda as seguintes perguntas. Você deverá utilizar 
     * Listar qual o ano com a melhor média de avaliação de filmes;
 1. Qual a ocupação mais propensa a dar más avaliações a filmes;
     * Encontrar a média de avaliação para cada ocupação de usuário e mostrar os menores e maiores valores
+    
+[Solução](https://github.com/maiataniguchi/Aulas_git_Ai2/blob/main/5-Python/1-Markdown-Jupyter_Notebook/Python warmup.ipynb)
