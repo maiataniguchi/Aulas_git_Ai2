@@ -22,4 +22,4 @@
 [Solução](https://github.com/maiataniguchi/Aulas_git_Ai2/blob/main/5-Python/Jupyter_Notebook_Markdown/Ex5.ipynb)
 
 ### Python warmup
-[Resolução em andamento](https://github.com/maiataniguchi/Aulas_git_Ai2/blob/main/5-Python/Jupyter_Notebook_Markdown/Python-warmup.ipynb)
+[Resolução em andamento](https://github.com/maiataniguchi/Aulas_git_Ai2/blob/main/5-Python/Jupyter_Notebook_Markdown/Python_Warmup_Numpy.ipynb)
